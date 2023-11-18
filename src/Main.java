@@ -16,7 +16,7 @@ public class Main {
     private static final String PLAYER_DATA_FILE = "resources/player_data.txt";
     private static final String MATCH_DATA_FILE = "resources/match_data.txt";
     private static final String RESULTS_FILE = "src/results.txt";
-    private static Long hostBalance = 0L; //keeps track of casino host balance, starts at 0
+    private static long hostBalance = 0; //keeps track of casino host balance, starts at 0
 
     /**
      * The entry point of the casino application.
